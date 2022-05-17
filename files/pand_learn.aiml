@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>CIAO</pattern>
+	<template>Ciao sono il chatbot loreto, il mio compito riguarda il famoso
+	cantautore e rapper Michele Salvemini, in arte Caparezza.
+	<br></br>
+	Digita un album di Caparezza per ricevere la lista di tutte le canzoni
+	appartenenti a quest'ultimo.
+	</template>
+</category>
+
+<category>
+	<pattern>VERITÀ SUPPOSTE</pattern>
+	<template>
+	    Il secondo secondo me – 4:14
+	    	<br></br>
+	    Nessuna razza – 4:09
+	    	<br></br>
+	    La legge dell'ortica – 3:50
+	    	<br></br>
+	    Stango e sbronzo – 3:45
+	    	<br></br>
+	    Limiti – 4:37
+	    	<br></br>
+	    Vengo dalla Luna – 4:13
+	    	<br></br>
+	    Dagli all'untore – 3:55
+	    	<br></br>
+	    Fuori dal tunnel – 5:10
+	    	<br></br>
+	    Giuda me – 3:28
+	    	<br></br>
+	    Nel Paese dei balordi – 3:51
+	    	<br></br>
+	    L'età dei figuranti – 3:49
+	    	<br></br>
+	    Follie preferenziali – 4:10
+	    	<br></br>
+	    Dualismi – 3:47
+	    	<br></br>
+	    Jodellavitanonhocapitouncazzo – 4:05
+	</template>
+</category>
+
+<category>
+	<pattern>HABEMUS CAPA</pattern>
+	<template>
+Mors mea tacci tua (Intro) – 0:26
+<br></br>
+Annunciatemi al pubblico – 4:08
+<br></br>
+Torna Catalessi – 3:58
+<br></br>
+Gli insetti del podere – 3:59
+<br></br>
+Dalla parte del toro – 3:59
+<br></br>
+Ninna nanna di Mazzarò – 4:41
+<br></br>
+Il silenzio dei colpevoli – 4:08
+<br></br>
+Profilo psichico – 0:35
+<br></br>
+La mia parte intollerante – 4:23
+<br></br>
+Inno verdano – 3:50
+<br></br>
+Epocalisse – 3:55
+<br></br>
+Tii-yan – 0:24
+<br></br>
+The Auditels Family – 4:07
+<br></br>
+Ti giri – 3:42
+<br></br>
+Titoli – 3:56 
+<br></br>
+Felici ma trimoni – 4:53
+<br></br>
+Sssaasss – 0:22
+<br></br>
+Sono troppo stitico – 3:59 
+<br></br>
+Habemus Capa – 4:24
+<br></br>
+La mia parte intollerante (Boosta RMX) – 4:39
+	</template>
+</category>
+
+<category>
+	<pattern>LE DIMENSIONI DEL MIO CAOS</pattern>
+	<template>
+La rivoluzione del sessintutto – 4:59
+<br></br>
+Ulisse (You Listen) – 4:00
+<br></br>
+Non mettere le mani in tasca – 4:32
+<br></br>
+Pimpami la storia – 4:13
+<br></br>
+Ilaria condizionata – 3:43
+<br></br>
+La grande opera – 4:50
+<br></br>
+Vieni a ballare in Puglia – 3:59
+<br></br>
+Abiura di me – 4:10
+<br></br>
+Cacca nello spazio – 4:26
+<br></br>
+Il circo delle pantegane – 3:47
+<br></br>
+Un vero uomo dovrebbe lavare i piatti – 3:56
+<br></br>
+Io diventerò qualcuno – 3:37
+<br></br>
+Eroe (storia di Luigi delle Bicocche) – 4:06
+<br></br>
+Bonobo Power – 3:19
+	</template>
+</category>
+
+<category>
+	<pattern>IL SOGNO ERETICO</pattern>
+	<template>
+Nessun dorma – 0:25 
+<br></br>
+Tutti dormano – 2:03
+<br></br>
+Chi se ne frega della musica – 4:54
+<br></br>
+Il dito medio di Galileo – 6:02
+<br></br>
+Sono il tuo sogno eretico – 3:54
+<br></br>
+Cose che non capisco – 3:11
+<br></br>
+Goodbye Malinconia (feat. Tony Hadley) – 4:49 
+<br></br>
+La marchetta di Popolino – 4:30
+<br></br>
+La fine di Gaia – 4:40
+<br></br>
+House Credibility – 4:02
+<br></br>
+Kevin Spacey – 3:43
+<br></br>
+Legalize the Premier (feat. Alborosie) – 4:23 
+<br></br>
+Messa in moto – 4:49
+<br></br>
+Non siete Stato voi – 4:43
+<br></br>
+La ghigliottina – 5:06
+<br></br>
+Ti sorrido mentre affogo – 3:05
+	</template>
+</category>
+
+<category>
+	<pattern>MUSEICA</pattern>
+	<template>
+Canzone all'entrata – 2:02
+<br></br>
+Avrai ragione tu (ritratto) – 4:23
+<br></br>
+Mica van Gogh – 3:55
+<br></br>
+Non me lo posso permettere – 3:46
+<br></br>
+Figli d'arte – 3:38
+<br></br>
+Comunque dada – 3:07
+<br></br>
+Giotto beat – 3:32
+<br></br>
+Cover – 5:10
+<br></br>
+China Town – 3:55
+<br></br>
+Canzone a metà – 3:23
+<br></br>
+Teste di Modì – 3:46
+<br></br>
+Argenti vive – 4:39
+<br></br>
+Compro horror – 4:02
+<br></br>
+Kitaro – 3:05 
+<br></br>
+Troppo politico – 3:35
+<br></br>
+Sfogati – 3:35
+<br></br>
+Fai da tela (feat. Diego Perrone) – 3:59
+<br></br>
+È tardi (feat. Michael Franti) – 4:34 
+<br></br>
+Canzone all'uscita – 1:54
+	</template>
+</category>
+
+<category>
+	<pattern>PRISONER 709</pattern>
+	<template>
+Prosopagnosia (con John De Leo) – 3:45
+<br></br>
+Prisoner 709  – 3:57
+<br></br>
+La caduta di Atlante  – 4:26
+<br></br>
+Forever Jung – 4:21 
+<br></br>
+Confusianesimo – 4:27
+<br></br>
+Il testo che avrei voluto scrivere – 4:32
+<br></br>
+Una chiave – 4:05
+<br></br>
+Ti fa stare bene – 4:10
+<br></br>
+Migliora la tua memoria con un click (con Max Gazzè) – 4:45 
+<br></br>
+Larsen – 4:20
+<br></br>
+Sogno di potere – 4:02
+<br></br>
+L'uomo che premette – 3:20
+<br></br>
+Minimoog (con John De Leo) – 1:45
+<br></br>
+L'infinto – 4:15
+<br></br>
+Autoipnotica – 5:10
+<br></br>
+Prosopagno sia! – 4:21
+	</template>
+</category>
+
+<category>
+	<pattern>EXUVIA</pattern>
+	<template>
+Canthology (feat. Matthew Marcantonio) – 3:49
+<br></br>
+Fugadà – 3:43
+<br></br>
+Una voce (skit) – 0:29
+<br></br>
+El sendero (feat. Mishel Domenssain) – 3:49 
+<br></br>
+Campione dei novanta – 4:31
+<br></br>
+La matrigna (skit) – 0:28
+<br></br>
+Contronatura – 3:56
+<br></br>
+Eterno paradosso – 4:31
+<br></br>
+Marco e Ludo (skit) – 0:35
+<br></br>
+La scelta – 4:35
+<br></br>
+Azzera pace – 4:06
+<br></br>
+Eyes Wide Shut – 5:09
+<br></br>
+Ghost Memo (skit) – 0:19
+<br></br>
+Come Pripyat – 4:21
+<br></br>
+Il mondo dopo Lewis Carroll – 3:28
+<br></br>
+Pi Esse (skit) – 0:32
+<br></br>
+Zeit! – 3:48
+<br></br>
+La certa – 3:40
+<br></br>
+Exuvia – 4:45
+	</template>
+</category>
+
+<category>
+	<pattern>QUAL È LA TUA CANZONE PREFERITA</pattern>
+	<template>Dagli All'Untore da Verità Supposte</template>
+</category>
+
+</aiml>
